@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">AKdev</title>
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
-<link rel="alternate" type="text/html" href="http://localhost:4000" />
-<updated>2015-07-21T00:26:10-03:00</updated>
-<id>http://localhost:4000/</id>
+<link rel="self" type="application/atom+xml" href="http://adirkuhn.github.io/feed.xml" />
+<link rel="alternate" type="text/html" href="http://adirkuhn.github.io" />
+<updated>2015-07-21T00:31:25-03:00</updated>
+<id>http://adirkuhn.github.io/</id>
 <author>
   <name>Adir Kuhn</name>
-  <uri>http://localhost:4000/</uri>
+  <uri>http://adirkuhn.github.io/</uri>
   <email>adirkuhn@gmail.com</email>
 </author>
 
@@ -17,13 +17,13 @@
 
 <entry>
   <title type="html"><![CDATA[Soluções do projeto think.transform() da Ci&T]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/blog/solucoes-do-projeto-think-transform-da-ciant/" />
-  <id>http://localhost:4000/blog/solucoes-do-projeto-think-transform-da-ciant</id>
+  <link rel="alternate" type="text/html" href="http://adirkuhn.github.io/blog/solucoes-do-projeto-think-transform-da-ciant/" />
+  <id>http://adirkuhn.github.io/blog/solucoes-do-projeto-think-transform-da-ciant</id>
   <published>2015-07-20T00:00:00-03:00</published>
   <updated>2015-07-20T00:00:00-03:00</updated>
   <author>
     <name>Adir Kuhn</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://adirkuhn.github.io</uri>
     <email>adirkuhn@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;A Ci&amp;amp;T está promovendo o programa think.transform() no qual ira selecionar 20 pessoas para receber treinamento de desenvolvimento mobile e fazer parte do time de colaboradores.&lt;/p&gt;
@@ -422,7 +422,7 @@ seu valor será dado por &lt;code&gt;N * M&lt;/code&gt;&lt;/li&gt;
 &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/blog/solucoes-do-projeto-think-transform-da-ciant/&quot;&gt;Soluções do projeto think.transform() da Ci&T&lt;/a&gt; was originally published by Adir Kuhn at &lt;a href=&quot;http://localhost:4000&quot;&gt;AKdev&lt;/a&gt; on July 20, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://adirkuhn.github.io/blog/solucoes-do-projeto-think-transform-da-ciant/&quot;&gt;Soluções do projeto think.transform() da Ci&T&lt;/a&gt; was originally published by Adir Kuhn at &lt;a href=&quot;http://adirkuhn.github.io&quot;&gt;AKdev&lt;/a&gt; on July 20, 2015.&lt;/p&gt;</content>
 </entry>
 
 
@@ -430,13 +430,13 @@ seu valor será dado por &lt;code&gt;N * M&lt;/code&gt;&lt;/li&gt;
 
 <entry>
   <title type="html"><![CDATA[Simulando pacotes GOOSE via ethernet]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/blog/simulando-pacotes-goose-via-ethernet/" />
-  <id>http://localhost:4000/blog/simulando-pacotes-goose-via-ethernet</id>
+  <link rel="alternate" type="text/html" href="http://adirkuhn.github.io/blog/simulando-pacotes-goose-via-ethernet/" />
+  <id>http://adirkuhn.github.io/blog/simulando-pacotes-goose-via-ethernet</id>
   <published>2014-08-18T00:00:00-03:00</published>
   <updated>2014-08-18T00:00:00-03:00</updated>
   <author>
     <name>Adir Kuhn</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://adirkuhn.github.io</uri>
     <email>adirkuhn@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;No desenvolvimento de um programa para comunicar dentro dos padrões da norma IEC 61850 uma das dificuldades que passei for para simular os dados de uma mensagem GOOSE.&lt;/p&gt;
@@ -453,7 +453,7 @@ seu valor será dado por &lt;code&gt;N * M&lt;/code&gt;&lt;/li&gt;
 &lt;p&gt;Recebendo Mensagem GOOSE
 &lt;img src=&quot;/assets/images/lendo-mensagem-goose.png&quot; alt=&quot;Recebendo Mensagem GOOSE&quot; /&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/blog/simulando-pacotes-goose-via-ethernet/&quot;&gt;Simulando pacotes GOOSE via ethernet&lt;/a&gt; was originally published by Adir Kuhn at &lt;a href=&quot;http://localhost:4000&quot;&gt;AKdev&lt;/a&gt; on August 18, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://adirkuhn.github.io/blog/simulando-pacotes-goose-via-ethernet/&quot;&gt;Simulando pacotes GOOSE via ethernet&lt;/a&gt; was originally published by Adir Kuhn at &lt;a href=&quot;http://adirkuhn.github.io&quot;&gt;AKdev&lt;/a&gt; on August 18, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -461,20 +461,20 @@ seu valor será dado por &lt;code&gt;N * M&lt;/code&gt;&lt;/li&gt;
 
 <entry>
   <title type="html"><![CDATA[Jekyll hello world]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/blog/hello-world-jekyll/" />
-  <id>http://localhost:4000/blog/hello-world-jekyll</id>
+  <link rel="alternate" type="text/html" href="http://adirkuhn.github.io/blog/hello-world-jekyll/" />
+  <id>http://adirkuhn.github.io/blog/hello-world-jekyll</id>
   <published>2014-08-18T00:00:00-03:00</published>
   <updated>2014-08-18T00:00:00-03:00</updated>
   <author>
     <name>Adir Kuhn</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://adirkuhn.github.io</uri>
     <email>adirkuhn@gmail.com</email>
   </author>
   <content type="html">&lt;h2 id=&quot;ol-mundo&quot;&gt;Olá mundo&lt;/h2&gt;
 
 &lt;p&gt;Mais um blog com jekyll.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/blog/hello-world-jekyll/&quot;&gt;Jekyll hello world&lt;/a&gt; was originally published by Adir Kuhn at &lt;a href=&quot;http://localhost:4000&quot;&gt;AKdev&lt;/a&gt; on August 18, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://adirkuhn.github.io/blog/hello-world-jekyll/&quot;&gt;Jekyll hello world&lt;/a&gt; was originally published by Adir Kuhn at &lt;a href=&quot;http://adirkuhn.github.io&quot;&gt;AKdev&lt;/a&gt; on August 18, 2014.&lt;/p&gt;</content>
 </entry>
 
 </feed>

@@ -3,7 +3,7 @@
 		{
 		  "title"      : "Soluções do projeto think.transform() da Ci&amp;T",
 		  "category"   : "",
-		  "url"        : "http://localhost:4000/blog/solucoes-do-projeto-think-transform-da-ciant/",
+		  "url"        : "http://adirkuhn.github.io/blog/solucoes-do-projeto-think-transform-da-ciant/",
 		  "date"       : "2015-07-20 00:00:00 -0300",
 		  "shortdate"  : "July 20, 2015"
 		} ,
@@ -11,7 +11,7 @@
 		{
 		  "title"      : "Simulando pacotes GOOSE via ethernet",
 		  "category"   : "",
-		  "url"        : "http://localhost:4000/blog/simulando-pacotes-goose-via-ethernet/",
+		  "url"        : "http://adirkuhn.github.io/blog/simulando-pacotes-goose-via-ethernet/",
 		  "date"       : "2014-08-18 00:00:00 -0300",
 		  "shortdate"  : "August 18, 2014"
 		} ,
@@ -19,7 +19,7 @@
 		{
 		  "title"      : "Jekyll hello world",
 		  "category"   : "",
-		  "url"        : "http://localhost:4000/blog/hello-world-jekyll/",
+		  "url"        : "http://adirkuhn.github.io/blog/hello-world-jekyll/",
 		  "date"       : "2014-08-18 00:00:00 -0300",
 		  "shortdate"  : "August 18, 2014"
 		} 
