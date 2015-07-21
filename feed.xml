@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://adirkuhn.github.io/feed.xml" />
 <link rel="alternate" type="text/html" href="http://adirkuhn.github.io" />
-<updated>2015-07-21T00:31:25-03:00</updated>
+<updated>2015-07-21T19:49:18-03:00</updated>
 <id>http://adirkuhn.github.io/</id>
 <author>
   <name>Adir Kuhn</name>
@@ -79,7 +79,7 @@ As linhas 5 e 10 possuem a palavra  &amp;quot;Buzz&amp;quot; pois são múltiplo
 &lt;p&gt;Bom esse problema não tem muito o que explicar, basta verificar se o número é multiplo de 3 e 5,
 só de 3, só de 5 ou de nenhum dos dois exibindo a saída desejada.&lt;/p&gt;
 
-&lt;p&gt;Essa eu respondi utlizando Python, a o tempo de execução é &lt;strong&gt;O(n)&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;Essa eu respondi utlizando Python, o tempo de execução é &lt;strong&gt;O(n)&lt;/strong&gt;:&lt;/p&gt;
 
 &lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;fizz_buzz&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
     &lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;range&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;n&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
@@ -151,7 +151,7 @@ EXEMPLO INPUT #2
 EXEMPLO OUTPUT #2
 XCIX&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
-&lt;p&gt;Este problema é mais complicado a organização do código do que o problema a ser resolvido.&lt;/p&gt;
+&lt;p&gt;Neste problema é mais complicado a organização do código do que o problema a ser resolvido.&lt;/p&gt;
 
 &lt;p&gt;Uma das possíveis abordagens para esse problema é dividir o número de entrada em &lt;strong&gt;milhar&lt;/strong&gt;, &lt;strong&gt;centena&lt;/strong&gt;, &lt;strong&gt;dezena&lt;/strong&gt; e &lt;strong&gt;unidade&lt;/strong&gt;, como fazemos no nosso dia a dia sem perceber.&lt;/p&gt;
 
@@ -272,7 +272,9 @@ Exemplos de Output:
 0
 1&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
-&lt;p&gt;Esse é um pouco mais complicada, mas mesmo assim possível de resolver. Queria implementar em C++ mas não estava disponível essa linguagem no teste, então escolhi PHP por ser muito parecida com C++.&lt;/p&gt;
+&lt;p&gt;Esse aqui é um pouco mais complicad, mas mesmo assim possível de resolver. 
+Queria implementar em C++ mas não estava disponível essa linguagem no teste, então escolhi 
+PHP por ser muito parecida com C++.&lt;/p&gt;
 
 &lt;p&gt;Basicamente seria um mini analizador léxico, mas não fazia idéia por onde começar esse sem consultar algum material, 
 então decidi utilizar uma estrutura de &lt;code&gt;stack&lt;/code&gt;.&lt;/p&gt;
